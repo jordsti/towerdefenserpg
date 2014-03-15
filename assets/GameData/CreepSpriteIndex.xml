@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreepTextureIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry>
+    <CreepTextureEntry Name="creep1">
+      <FrameUp>
+        <string>creep1/Up0.png</string>
+        <string>creep1/Up1.png</string>
+        <string>creep1/Up2.png</string>
+        <string>creep1/Up3.png</string>
+      </FrameUp>
+      <FrameDown>
+        <string>creep1/Down0.png</string>
+        <string>creep1/Down1.png</string>
+        <string>creep1/Down2.png</string>
+        <string>creep1/Down3.png</string>
+      </FrameDown>
+      <FrameLeft>
+        <string>creep1/Left0.png</string>
+        <string>creep1/Left1.png</string>
+        <string>creep1/Left2.png</string>
+        <string>creep1/Left3.png</string>
+      </FrameLeft>
+      <FrameRight>
+        <string>creep1/Right0.png</string>
+        <string>creep1/Right1.png</string>
+        <string>creep1/Right2.png</string>
+        <string>creep1/Right3.png</string>
+      </FrameRight>
+    </CreepTextureEntry>
+    <CreepTextureEntry Name="creep2">
+      <FrameUp>
+        <string>creep2/Up0.png</string>
+        <string>creep2/Up1.png</string>
+        <string>creep2/Up2.png</string>
+        <string>creep2/Up3.png</string>
+      </FrameUp>
+      <FrameDown>
+        <string>creep2/Down0.png</string>
+        <string>creep2/Down1.png</string>
+        <string>creep2/Down2.png</string>
+        <string>creep2/Down3.png</string>
+      </FrameDown>
+      <FrameLeft>
+        <string>creep2/Left0.png</string>
+        <string>creep2/Left1.png</string>
+        <string>creep2/Left2.png</string>
+        <string>creep2/Left3.png</string>
+      </FrameLeft>
+      <FrameRight>
+        <string>creep2/Right0.png</string>
+        <string>creep2/Right1.png</string>
+        <string>creep2/Right2.png</string>
+        <string>creep2/Right3.png</string>
+      </FrameRight>
+    </CreepTextureEntry>
+  </Entry>
+</CreepTextureIndex>

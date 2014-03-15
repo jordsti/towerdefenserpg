@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TD.GameLogic.Map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Rows="12" Columns="12" MapName="secondmap" DefaultTileTexture="Normal 1">
+  <Tiles>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Obstacle 2" TileType="Obstacle" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="CreepPath 1" TileType="CreepStart" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 2" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Obstacle 1" TileType="Obstacle" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Obstacle 2" TileType="Obstacle" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Obstacle 1" TileType="Obstacle" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 4" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 2" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 4" TileType="CreepPath" />
+      <Tile Texture="CreepPath 2" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Obstacle 2" TileType="Obstacle" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="CreepPath 1" TileType="CreepEnd" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 2" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="CreepPath 4" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 1" TileType="CreepPath" />
+      <Tile Texture="CreepPath 5" TileType="CreepPath" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+    <TilesRow>
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Obstacle 3" TileType="Obstacle" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Obstacle 3" TileType="Obstacle" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+      <Tile Texture="Normal 1" TileType="Normal" />
+    </TilesRow>
+  </Tiles>
+</TD.GameLogic.Map>

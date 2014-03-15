@@ -1,0 +1,15 @@
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Core.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Core.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\SdlDotNet.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\Tao.Sdl.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Audio.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.GameLogic.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Graphics.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Gui.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Audio.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.GameLogic.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Graphics.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\bin\Debug\TD.Gui.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\obj\Debug\TD.Core.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\obj\Debug\TD.Core.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Core\obj\Debug\TD.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TD.Graphics.TextureIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TextureList>
+    <Texture Name="Normal 1" Path="Textures/nor1.png" />
+    <Texture Name="CreepPath 1" Path="Textures/cp1.png" />
+    <Texture Name="CreepPath 2" Path="Textures/cp2.png" />
+    <Texture Name="CreepPath 3" Path="Textures/cp3.png" />
+    <Texture Name="CreepPath 4" Path="Textures/cp4.png" />
+    <Texture Name="CreepPath 5" Path="Textures/cp5.png" />
+    <Texture Name="Obstacle 1" Path="Textures/obs1.png" />
+    <Texture Name="Obstacle 2" Path="Textures/obs2.png" />
+    <Texture Name="Obstacle 3" Path="Textures/obs3.png" />
+  </TextureList>
+</TD.Graphics.TextureIndex>

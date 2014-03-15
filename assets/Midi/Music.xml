@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TD.Audio.MidiIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MidiList>
+	<Midi Name="TowardDeadEnd" Path="Midi/towards_dead_end.mid" />
+    <Midi Name="IntoBattle" Path="Midi/into_the_battle.mid" />
+    <Midi Name="TaleOfRevenge" Path="Midi/tale_of_revenge.mid" />
+    <Midi Name="HeroInADream" Path="Midi/hero_in_a_dream.mid" />
+    <Midi Name="BattleSong" Path="Midi/battle_song.mid" />
+    <Midi Name="HuntingSong" Path="Midi/hunting_song.mid" />
+    <Midi Name="BeerBeer" Path="Midi/beer_beer.mid" />
+    <Midi Name="Zeromus" Path="Midi/ff4_zeromus.mid" />
+	<Midi Name="Berzerker" Path="Midi/berzerker.mid" />
+  </MidiList>
+</TD.Audio.MidiIndex>

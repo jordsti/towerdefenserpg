@@ -1,0 +1,6 @@
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Gui\bin\Debug\TD.Gui.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Gui\bin\Debug\TD.Gui.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Gui\bin\Debug\SdlDotNet.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Gui\bin\Debug\Tao.Sdl.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Gui\obj\Debug\TD.Gui.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Gui\obj\Debug\TD.Gui.pdb

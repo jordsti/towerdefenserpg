@@ -1,0 +1,45 @@
+Tower Defense RPG 
+	Jordan Guérin
+	jord52@gmail.com
+
+----------------------------------
+
+Dernières Modifications :
+- Exception pour le Pathfinder
+- Les projectiles des Archers
+- Nouveau fichier MIDI (Toward Dead End)
+- Redimension du Menu (ne fonctionne pas encore sur le GameWindow)
+
+
+Fonctionnalité implémentées :
+
+- Un Editeur de map pour créé ou modifié les maps du TD
+- GameObject fonctionnel, donc le jeux est jouable !
+- 5 Type de classes pour les tours (Thieft,Paladin,Mage,Archer et Soldier)
+- 2 Type de Damage (Physical, Magic)
+- Possibilité de choisir les unités qu'on veut acheter
+- Possibilité de placer l'unité où on désire
+- 25 Vague de creeps, 1x3 ,5x5 , 5x10, 5x15, 7x20,
+- On peux sélectionner une unité pour voir ses attributs (Niveau,Force,Int)
+- On peux voir le rayon d'attaque d'une unité en l'a sélectionnant
+- On peux modifier les maps, creeps et textures du jeux seulement en modifiant les fichiers XML
+- On voit les informations sur la prochaine vague de Creeps (Vie, Resistance, Faiblesse, etc)
+- On peux voir la vie restante au Creep en l'a sélectionnant
+- Sprites pour les Creeps (2 set)
+- Sprite d'attaque pour les Mages
+- On peux voir les "critical" et les gold volés
+- Musique MIDI
+- 3 Difficultés
+- Une interface GUI pour choisir une map et une difficulté
+- Les projectiles du archer sont maintenant Visibles
+- Sauvegarde des High scores dans un fichier XML
+- Affichage du Top 10 des Scores (pour la map et la difficulté) à la fin d'une partie
+
+Problèmes :
+- Quand on appuie sur Quit ou Restart, aucun message n'est affiché et la partie est "reset" ou quitter
+- Bouton Pause, ne fonctionne pas pour l'instant
+
+To Do :
+- Sprites sur les PlayerUnits
+- Sprites d'attaque pour les unités Melee (Soldier,Paladin,Thieft)
+- Redimension sur le GameWindow

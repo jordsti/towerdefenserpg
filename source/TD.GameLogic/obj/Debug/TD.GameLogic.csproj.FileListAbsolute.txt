@@ -1,0 +1,5 @@
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.GameLogic\bin\Debug\TD.GameLogic.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.GameLogic\bin\Debug\TD.GameLogic.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.GameLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.GameLogic\obj\Debug\TD.GameLogic.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.GameLogic\obj\Debug\TD.GameLogic.pdb

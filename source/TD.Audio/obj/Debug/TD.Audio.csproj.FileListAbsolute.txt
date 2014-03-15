@@ -1,0 +1,7 @@
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Audio\bin\Debug\TD.Audio.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Audio\bin\Debug\TD.Audio.pdb
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Audio\bin\Debug\SdlDotNet.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Audio\bin\Debug\Tao.Sdl.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Audio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Audio\obj\Debug\TD.Audio.dll
+C:\Users\JordSti\Desktop\td-jord-3\src\TD.Audio\obj\Debug\TD.Audio.pdb
