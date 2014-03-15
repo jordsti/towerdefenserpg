@@ -9,8 +9,8 @@
 *.pdb
 *.suo
 *.obj
-*/bin/*
-*/obj/*
+source/*/bin/*
+source/*/obj/*
 #bin/*
 obj/*
 lib/*
